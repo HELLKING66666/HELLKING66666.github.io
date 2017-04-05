@@ -1,4 +1,4 @@
-#HELLKING BLOG APATED FROM [HUX](http://huxpro.github.io)
+# HELLKING BLOG APATED FROM [HUX](http://huxpro.github.io)
 
 
-###STUDY RECORD
+### STUDY RECORD
